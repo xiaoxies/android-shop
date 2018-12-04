@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!--设置默认状态栏背景颜色-->
+        <item name="android:statusBarColor">@color/bar</item>
+
+        <!--全局去除title标题-->
+        <item name="windowNoTitle">true</item>
+
+        <!--设置启动不会白屏，直接等待一会在加载layout-->
+        <item name="android:windowIsTranslucent">true</item>
+
+    </style>
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">小谢商城</string>
+    <string name="home">首页</string>
+    <string name="cart">购物车</string>
+    <string name="brand">品牌街</string>
+    <string name="user">我的</string>
+    <string name="dj">DJ器材</string>
+    <string name="yinyue">调音器材</string>
+    <string name="huatong">演出话筒</string>
+    <string name="yingdie">数码处理器</string>
+    <string name="zhoubian">周边器材</string>
+    <string name="gongfang">专业功放</string>
+    <string name="yinxiang">专业音响</string>
+    <string name="yingyuan">家庭影院</string>
+
+
+    <!--登录页面-->
+    <string name="login">登录</string>
+    <string name="login_phone">手机号</string>
+    <string name="login_pass">密码</string>
+    <string name="login_nobody">没有账号？速度注册</string>
+
+    <!--个人中心页面-->
+    <string name="my_order">全部订单</string>
+    <string name="coupon">我的优惠券</string>
+    <string name="evaluate">我的评价</string>
+    <string name="my_love">我的收藏</string>
+    <string name="location">我的地址</string>
+    <string name="my_user">个人信息</string>
+    <string name="version">版本更新</string>
+    <string name="log_out">退出</string>
+
+
+</resources>
+
